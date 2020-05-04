@@ -3,6 +3,7 @@ Answers and Codes for Project A
 
 Excersise one: **Practice Selenium**
 1. This is the trace of looking up a video on Youtube. Generated code is in test_youtubesearch.py
+![Image description]Youtube_record.PNG
 
 Exersise Two: **AutoMail Project**
 1. AutoMail.py allow you to automatically send a certain person an email with certain content via Umich mail. You need the following to do this:
