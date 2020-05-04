@@ -9,7 +9,7 @@ Exersise Two: **AutoMail Project**
 - UofM account
 - DUO account 
 - Chrome browser 
-You need to change or specify the following in the program file to run:
+2. You need to change or specify the following in the program file to run:
 - Location of Chromedriver.exe
 - UofM uniquename and password
 - The email address you want to send to and the content of the mail
